@@ -1,9 +1,9 @@
 {
-  "name": "genc",
+  "name": "gendot",
   "version": "0.1.0",
   "license": "MIT",
   "bin": {
-    "genc": "./bin/index.js"
+    "gend": "./bin/index.js"
   },
   "dependencies": {
     "chalk": "^2.4.2",

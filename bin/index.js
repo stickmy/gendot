@@ -2,4 +2,4 @@
 
 'use strict';
 
-require('../lib/genc');
+require('../lib/gend');
